@@ -19,8 +19,11 @@ animation:
     typing 3.5s steps(30, end),
     blink-caret .5s step-end infinite;
 }
-.main h1 span {  
+.msg {  
   color: #f92672;
+}
+.hll {
+  color:#fff;
 }
 a {
   position: absolute;
